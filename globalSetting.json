@@ -1,0 +1,29 @@
+{
+    "global_setting":
+    {
+        "debug":false,
+		"use_udp":false,
+    },
+    "vibrotactile_device_setting":
+    {
+        "overwrite_data":true,
+		"device_name":"VibrotactileDevice",
+        "host_port":"COM4",
+        "host_speed":115200,
+		"auto_start":true,
+		"frequency":4000,
+		"nb_channel":28,
+		"max_pwm": 511,
+    },
+	 "grip_device_setting":
+    {
+        "overwrite_data":false,
+		"device_name":"GripDevice",
+        "host_port":"COM4",
+        "host_speed":115200,
+		"auto_start":false,
+		"frequency":500,
+		"max_speed":191,
+		"max_force":255,
+    },
+}

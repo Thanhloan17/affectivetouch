@@ -1,0 +1,12 @@
+1,peak50hz_0.005
+2,plum_1_0.005
+3,splash_1_0.005
+4,transient_0.005
+5,move_1_0.005
+6,waterfall3 (2)_0.005
+7,static_audio_1_0.01
+8,static_audio_2_0.005
+9,40haptic
+10,50haptic
+11,60haptic
+12,70haptic
